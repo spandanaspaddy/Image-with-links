@@ -1,0 +1,26 @@
+body {
+    background-color: lightgrey;
+    border: 5px solid;
+   
+  }
+
+  h4 {
+    text-align: center;
+    border-color: black;
+    font-size: 20px;
+    font-weight: 10px;
+  }
+
+  h1 , p{
+    text-align: center;
+    
+  }
+
+  .desc{
+    font-size: 30px;
+  }
+
+  img{
+    display: block;
+    margin:auto;
+  }
